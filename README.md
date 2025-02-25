@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisi123" alt="owaisi123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m_owaisi18" target="blank"><img src="https://img.shields.io/twitter/follow/@m_owaisi18?logo=twitter&style=for-the-badge" alt="@m_owaisi18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/m_owaisi18" target="blank"><img src="https://img.shields.io/twitter/follow/m_owaisi18?logo=twitter&style=for-the-badge" alt="m_owaisi18" /></a> </p>
 
 - 🔭 I’m currently working on NextJs [e-commerce](https://ecommerce-website-1-azure.vercel.app/)
 
