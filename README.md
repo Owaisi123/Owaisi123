@@ -4,7 +4,8 @@
 
 
 
-![Uploading git-gif.gif…]()
+
+![futuristic_developer](https://github.com/user-attachments/assets/49040701-d3c3-4614-ae72-60aea02c33ab)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisi123&label=Profile%20views&color=0e75b6&style=flat" alt="owaisi123" /> </p>
