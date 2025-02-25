@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Muhammad Owais | Front-End Developer</h1>
+<h1 align="center">🚀 <span style="display: inline-block; animation: typing 3s steps(20, end) infinite alternate;">Muhammad Owais | Front-End Developer</span></h1>
 <h3 align="center">Building Modern & Scalable Web Applications</h3>
 
 <p align="center">
@@ -6,6 +6,10 @@
   <a href="https://twitter.com/m_owaisi18" target="blank">
     <img src="https://img.shields.io/twitter/follow/m_owaisi18?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49040701-d3c3-4614-ae72-60aea02c33ab" alt="futuristic_developer" />
 </p>
 
 ---
