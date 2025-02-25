@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisi123" alt="owaisi123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/owais" target="blank"><img src="https://img.shields.io/twitter/follow/owais?logo=twitter&style=for-the-badge" alt="owais" /></a> </p>
+<p align="left"> <a href="https://x.com/M_Owaisi18" target="blank"><img src="https://img.shields.io/twitter/follow/owais?logo=twitter&style=for-the-badge" alt="owais" /></a> </p>
 
 - 🌱 I’m currently learning **Web development , NextJs, Typescript**
 
