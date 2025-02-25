@@ -1,4 +1,8 @@
-<h1 align="center">🚀 <span style="display: inline-block; animation: typing 3s steps(20, end) infinite alternate;">Muhammad Owais | Front-End Developer</span></h1>
+<h1 align="center">
+  <span style="display: inline-block; white-space: nowrap; border-right: 4px solid; animation: typing 3s steps(20, end) infinite alternate, blink-caret .75s step-end infinite;">
+    Muhammad Owais | Front-End Developer
+  </span>
+</h1>
 <h3 align="center">Building Modern & Scalable Web Applications</h3>
 
 <p align="center">
