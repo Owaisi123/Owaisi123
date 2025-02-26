@@ -53,6 +53,15 @@
 
 ---
 
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=owaisi123&theme=algolia&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 **GitHub Stats**
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisi123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
