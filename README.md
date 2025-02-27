@@ -72,7 +72,7 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisi123&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisi123&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,3 +87,5 @@
 ---
 
 🔥 **Let's build something awesome together!** 🚀
+
+
