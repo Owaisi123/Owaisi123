@@ -23,7 +23,7 @@
 - 📝 **I write tech blogs:** [Visit My Blog](https://blog-2024-navy.vercel.app/)
 - 🎨 **Portfolio & Projects:** [Check Out My Work](https://portfolio-188.vercel.app/)
 - 📬 **Contact Me:** [muhammadaslamkhan5467@gmail.com](mailto:muhammadaslamkhan5467@gmail.com)
-- ⚡ **Fun Fact:** I write clean code & bad jokes! 😆
+- ⚡ **Fun Fact:** I write clean code & jokes! 😆
 
 ---
 
