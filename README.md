@@ -21,7 +21,7 @@
 - 🔭 **Currently working on:** Next.js **eCommerce Website** [(Live Demo)](https://ecommerce-website-1-azure.vercel.app/)
 - 📖 **Currently learning:** Advanced **Next.js, TypeScript & GSAP**
 - 📝 **I write tech blogs:** [Visit My Blog](https://blog-2024-navy.vercel.app/)
-- 🎨 **Portfolio & Projects:** [Check Out My Work](https://portfolio-188.vercel.app/)
+- 🎨 **Portfolio & Projects:** [Check Out My Work](https://owais-portfolio-18.vercel.app/)
 - 📬 **Contact Me:** [muhammadaslamkhan5467@gmail.com](mailto:muhammadaslamkhan5467@gmail.com)
 - ⚡ **Fun Fact:** I write clean code & jokes! 😆
 
