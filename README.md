@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Muhammad+Owais;Front-End+Developer;Building+Awesome+Web+Apps" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/49040701-d3c3-4614-ae72-60aea02c33ab" alt="futuristic_developer" />
